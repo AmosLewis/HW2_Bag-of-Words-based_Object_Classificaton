@@ -1,8 +1,8 @@
 
-# Carnegie Mellon University
+# Bag-of-Words-based Object Classificaton
+Carnegie Mellon University
 Robotic Institute
 16720 Computer Vision: Homework 2
-Bag-of-Words-based Object Classificaton
 Instructor: Martial Hebert
 TAs: David Fouhey, Heather Knight and Daniel Maturana
 Due Date: December 28th, 2016
