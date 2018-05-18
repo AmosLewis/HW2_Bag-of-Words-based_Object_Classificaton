@@ -1,5 +1,5 @@
 
-# Bag-of-Words-based Object Classificaton
+# Bag-of-Words-based Object Classification
 Carnegie Mellon University
 Robotic Institute
 16720 Computer Vision: Homework 2
